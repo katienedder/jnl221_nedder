@@ -17,7 +17,7 @@
 	font-size: 50px;
 	text-align: center;
 	font-family: 'Georgia', serif;
-	background-color: darkgrey;
+	background-color: lightblue;
 	color: #83BCFF;
 }
 h4 {
@@ -46,7 +46,7 @@ img{
  .list {
  	float: none;
  	min-width: 90%;
- 	margin-left: 10px;
+ 	margin-left: 20px;
  	margin-bottom: 30px;
  	margin-top: 30px;
  	border: 2px solid darkgray;
